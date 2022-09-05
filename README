@@ -14,7 +14,6 @@ pKiLL is a program that I've created which can be used to end/restart unresponsi
 1.	Run the install.sh to install necessary dependencies for the smooth functioning of the application.
 
 2.	After the installation:
-	cd pKiLL
 	python3 pKiLL.py
 
 
